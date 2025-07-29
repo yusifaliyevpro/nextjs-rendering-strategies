@@ -16,4 +16,8 @@ const links: {
 }[] = [
   { title: "Full Page CSR Example", href: "/csr-example" },
   { title: "SSR Example", href: "/ssr-example" },
+  { title: "SSR + CSR Component Example", href: "/ssr-csr-example" },
+  { title: "SSG Example", href: "/ssg-example" },
+  { title: "SSG Fetch Example", href: "/ssg-fetch-example" },
+  { title: "ISR Example", href: "/isr-example" },
 ];
