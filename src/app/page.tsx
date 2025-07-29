@@ -20,4 +20,5 @@ const links: {
   { title: "SSG Example", href: "/ssg-example" },
   { title: "SSG Fetch Example", href: "/ssg-fetch-example" },
   { title: "ISR Example", href: "/isr-example" },
+  { title: "use() Hook Example", href: "/use-hook" },
 ];
